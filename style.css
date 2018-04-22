@@ -1,0 +1,96 @@
+nav tr {
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+	width: 60%;
+	font-family: calibri;
+}
+
+nav td {
+	text-align: center;
+}
+
+nav table {
+	background-color:black;
+	width: 100%;
+}
+
+nav a:link,nav a:visited {
+	display:block;
+	width:auto;
+	font-weight:bold;
+	color:#FFFFFF;
+	text-align:center;
+	padding:4px;
+	text-decoration:none;
+	text-transform:uppercase;
+}
+
+nav a:hover,nav a:active {
+	background-color:Khaki;
+	color:black;
+}
+
+footer {
+	font-size:10px;
+}
+.sorties td {
+	padding-right:60px;
+	padding-bottom:10px;
+}
+
+.sorties tr {
+	padding-bottom:10px;
+}
+
+.sorties img {
+	width: 200px;
+	height: 90px;
+}
+
+.citation {
+	color:#A0522D;
+	font-family: calibri;
+}
+.last_publications td {
+	padding-right:60px;
+}
+.preview {
+	font-size:10.5px;
+}
+.article {
+	width:65%; 
+	margin:auto; 
+	background-color:white; 
+	padding:20px; 
+	border-radius:10px;
+}
+.article .text {
+	font-size:13px;
+}
+.article .title {
+	font-weight:bold;
+}
+.article .subtitle {
+	font-size:14px;
+}
+.article ul {
+	margin:0px;
+	padding:0px;
+	padding-left:20px;
+}
+.article li {
+	font-size:12px;
+	font-weight:bold;
+}
+.article .address {
+	font-size:12px;
+}
+.article .source {
+	font-size:11px;
+}
+.date_article {
+	font-size:10px;
+	color:grey;
+}
