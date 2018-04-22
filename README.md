@@ -1,3 +1,3 @@
 # esg-mywebsite
 
-<br> Publish a website
+<br> Published a website as part as my master's degree.
